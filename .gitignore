@@ -23,3 +23,6 @@ gemini_package_3/
 # Large database files
 *.db
 log_coverage_improvement/
+
+# Temporary files
+temp/
