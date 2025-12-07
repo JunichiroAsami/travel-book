@@ -1,0 +1,25 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Zip files
+*.zip
+
+# Temporary directories
+gemini_package/
+gemini_package_1/
+gemini_package_2/
+gemini_package_3/
+
+# Word/Office files
+*.docx
+*.doc
+
+# Backup files
+*_backup*.md
+
+# Large database files
+*.db
+log_coverage_improvement/
